@@ -1,0 +1,15 @@
+{
+  "name": "node-browse",
+  "version": "0.0.1",
+  "description": "Opens a URL in the default browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browser",
+    "url"
+  ],
+  "author": "Potch",
+  "license": "BSD-2-Clause"
+}
