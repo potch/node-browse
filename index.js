@@ -5,7 +5,6 @@ var urlparse = require('url');
 function valid(url) {
   var parsed = urlparse.parse(url);
   var protocol = parsed.protocol.toLowerCase();
-  console.log(protocol);
   if (protocol === 'http:' || protocol === 'https:') {
     return true;
   }

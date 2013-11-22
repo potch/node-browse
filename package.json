@@ -1,6 +1,6 @@
 {
   "name": "node-browse",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Opens a URL in the default browser.",
   "main": "index.js",
   "scripts": {
